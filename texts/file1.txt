@@ -1,0 +1,4 @@
+Python is a programming language.
+Threading allows multiple threads to run.
+Multiprocessing allows multiple processes to run.
+Python is useful for working with files.

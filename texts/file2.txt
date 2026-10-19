@@ -1,0 +1,4 @@
+Python supports threading and multiprocessing.
+Threads are useful for working with files.
+Processes can run in parallel.
+Java is another programming language.
